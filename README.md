@@ -1,4 +1,4 @@
 # amazon-clone
-This is a clone of amazon.com
+This is a clone project of amazon.com
 <br>
 Author - Hosssain Uddin
